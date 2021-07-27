@@ -14,6 +14,7 @@
 Scrum is a f
 
 ## Roles
+There are three roles in SCRUM:
    1. **Product owner (PO):** Is the link between team and the costumers/stakeholders.
    2. **Scrum Master:** Helps the development team to follow the Scrum workflow.
    3. **Development Team:** Developers carry out all work required to build increments of value every sprint.
