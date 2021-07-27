@@ -3,9 +3,12 @@
 ### Table of Contents
 1. [Definition](#definition)
 2. [Roles](#roles)
-3. [Goals](#goals)
-4. [Workflow](#workfolw)
-5. [References](#references)
+   1. Product owner (PO)
+   2. Scrum Master
+   3. Development Team
+4. [Goals](#goals)
+5. [Workflow](#workfolw)
+6. [References](#references)
 
 ## Definition
 
