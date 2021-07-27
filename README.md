@@ -1,22 +1,22 @@
 # Scrum
 
 ### Table of Contents
-1. [Definition](#definition)
-2. [Roles](#roles)
-   1. Product owner (PO)
-   2. Scrum Master
-   3. Development Team
-4. [Goals](#goals)
-5. [Workflow](#workfolw)
-6. [References](#references)
+  - [Definition](#definition)
+    - [Additional definitions](#additional-definitions)
+  - [Roles](#roles)
+  - [Goals](#goals)
+    - [backlog](#backlog)
+  - [Workflow](#workflow)
+    - [Sprints](#sprints)
+    - [References](#references)
 
 ## Definition
 Scrum is a framework utilizing an agile mindset for developing, delivering and sustaining productsin a complex enviroment, with an initial emphasis on software development, although it has been used in other fields including research, sales, marketing and advanced technologies [2]. Scrum uses roles, goals and workflows.
 
-### additional definition
-- Framework:
-- Metodology:
-- Agile metodology:
+### Additional definitions
+- **Framework:**
+- **Metodology:**
+- **Agile metodology:**
 
 ## Roles
 There are three roles in SCRUM:
@@ -25,9 +25,11 @@ There are three roles in SCRUM:
    3. **Development Team:** Developers carry out all work required to build increments of value every sprint.
 
 ## Goals
+
 ### backlog
 
 ## Workflow
+
 ### Sprints
 
 ### References
