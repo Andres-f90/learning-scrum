@@ -16,7 +16,7 @@ Scrum is a framework utilizing an agile mindset for developing, delivering and s
 ### additional definition
 - Framework:
 - Metodology:
-- agile Metodology:
+- Agile metodology:
 
 ## Roles
 There are three roles in SCRUM:
