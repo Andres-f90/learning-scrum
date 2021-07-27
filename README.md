@@ -13,7 +13,9 @@
 ## Definition
 
 ## Roles
-
+   1. Product owner (PO)
+   2. Scrum Master
+   3. Development Team
 ## Goals
 
 ## Workflow
