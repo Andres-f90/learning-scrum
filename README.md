@@ -1,4 +1,3 @@
-# learning-scrum
 # Scrum
 ### References
 1. EDteam - Que es Scrum?
